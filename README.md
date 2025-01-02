@@ -1,8 +1,8 @@
 ---
-Created-Date: 2025-01-0220:29
-LastSyncDate: 2025-01-02T20:46:00
+Created-Date: 2025-01-02T20:08:00
+LastSyncDate: 2025-01-02T22:35:00
 Version: 1.0.0
-Version-Message: 创建文档，加入Obsidian仓库设置推荐和文件树
+Version-Message: README属性调整
 ---
 # *Log*
 
