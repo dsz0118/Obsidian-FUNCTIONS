@@ -1,0 +1,2 @@
+# Obsidian-FUNCTIONS
+用于存放Obsidian Repository初始化所需的指导文件与功能文件等
